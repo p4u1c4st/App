@@ -1,0 +1,1 @@
+Escuela: asd, Edificio: das, Nombre: ads, Rol: Alumno
